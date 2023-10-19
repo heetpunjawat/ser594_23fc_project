@@ -7,7 +7,7 @@ def execute_files():
     for file_path in file_paths:
         try:
             # Run the Python file using subprocess
-            subprocess.run(['python', file_path], check=True)
+            subprocess.run(['python3', file_path], check=True)
         except subprocess.CalledProcessError as e:
             print(f"Error executing {file_path}: {e}")
             break

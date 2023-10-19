@@ -1,5 +1,5 @@
 #### SER594: Exploratory Data Munging and Visualization
-#### (title) Motoviz: Mapping Motorcycle crash Data
+#### (title) Motoviz: Mapping Motorcycle Crash Data
 #### (author) Heet Punjawat 
 #### (date) 10/16/2023
 

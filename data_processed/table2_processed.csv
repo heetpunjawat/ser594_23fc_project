@@ -1,0 +1,8 @@
+Type of Lighting Conditions,Total Crashes,Fatal Crashes,Injury Crashes,PDO Crashes
+Daylight,"1,929",125,"1,534",270
+Dawn,32,2,27,3
+Dusk,110,5,92,13
+Dark - Lighted,646,63,473,110
+Dark - Not Lighted,167,21,127,19
+Dark - Unknown Lighting,8,3,3,2
+Total,2892,219,2256,417

@@ -1,0 +1,8 @@
+Operator's Severity of Injury,Helmet Used,% of Total,Helmet Not Used,% of Total,Unknown,% of Total,Total,% of Total
+No Injury,203,12.84%,62,10.23%,182,22.89%,447,14.99%
+Unknown Injury,18,1.14%,10,1.65%,31,3.90%,59,1.98%
+Possible Injury,234,14.80%,75,12.38%,95,11.95%,404,13.55%
+Suspected Minor Injury,691,43.71%,230,37.95%,293,36.86%,"1,214",40.71%
+Suspected Serious Injury,327,20.68%,155,25.58%,158,19.87%,640,21.46%
+Fatal Injury,108,6.83%,74,12.21%,36,4.53%,218,7.31%
+TOTALS,"1,581",100.00%,606,100.00%,795,100.00%,"2,982",100.00%

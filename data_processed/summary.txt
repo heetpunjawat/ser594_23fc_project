@@ -1,0 +1,9 @@
+(Considering all Counties)  Min    Max  Median
+             Total Crashes  5.0 1906.0    46.0
+             Fatal Crashes  0.0  134.0     5.0
+            Injury Crashes  2.0 1473.0    38.0
+               PDO Crashes  0.0  299.0     5.0
+
+Number of Counties(Categories): 15
+Most Frequent Counties(Categories): Maricopa
+Least Frequent Counties(Categories): Greenlee, Santa Cruz

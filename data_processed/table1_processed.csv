@@ -1,0 +1,11 @@
+First Harmful Event Type,Total Crashes,Fatal Crashes,Injury Crashes,PDO Crashes
+Collision with Motor Vehicle in Transport,"1,779",139,"1,318",322
+Overturning,487,31,427,29
+Collision with Pedestrian,15,4,11,0
+Collision with Bicyclist,10,2,8,0
+Collision with Animal,26,2,21,3
+Collision with Fixed Object,445,38,371,36
+Collision with Non-fixed Object*,106,6,75,25
+Vehicle Fire or Explosion,2,0,2,0
+Other Non-collision**,33,0,29,4
+Total,2903,222,2262,419

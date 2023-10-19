@@ -1,0 +1,5 @@
+	Total Crashes	Fatal Crashes	Injury Crashes	PDO Crashes
+Total Crashes	1.000       
+Fatal Crashes	0.996       	1.000       
+Injury Crashes	1.000       	0.995       	1.000       
+PDO Crashes	0.999       	0.993       	0.998       	1.000       

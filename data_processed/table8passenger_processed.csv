@@ -1,0 +1,8 @@
+Passenger's Severity of Injury,Helmet Used,% of Total,Helmet Not Used,% of Total,Unknown,% of Total,Total,% of Total
+No Injury,8,8.70%,4,8.00%,9,18.37%,21,10.99%
+Unknown Injury,1,1.09%,1,2.00%,1,2.04%,3,1.57%
+Possible Injury,18,19.57%,7,14.00%,2,4.08%,27,14.14%
+Suspected Minor Injury,40,43.48%,18,36.00%,20,40.82%,78,40.84%
+Suspected Serious Injury,23,25.00%,14,28.00%,15,30.61%,52,27.23%
+Fatal Injury,2,2.17%,6,12.00%,2,4.08%,10,5.24%
+TOTALS,92,100.00%,50,100.00%,49,100.00%,191,100.00%
